@@ -1,0 +1,10 @@
+C:\Users\Christian Arroyo\Desktop\Servidor-TCP\Cliente-TCP\bin\Debug\Cliente-TCP.exe.config
+C:\Users\Christian Arroyo\Desktop\Servidor-TCP\Cliente-TCP\bin\Debug\Cliente-TCP.exe
+C:\Users\Christian Arroyo\Desktop\Servidor-TCP\Cliente-TCP\bin\Debug\Cliente-TCP.pdb
+C:\Users\Christian Arroyo\Desktop\Servidor-TCP\Cliente-TCP\obj\Debug\Cliente-TCP.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Servidor-TCP\Cliente-TCP\obj\Debug\Cliente_TCP.FrmClienteTcp.resources
+C:\Users\Christian Arroyo\Desktop\Servidor-TCP\Cliente-TCP\obj\Debug\Cliente_TCP.Properties.Resources.resources
+C:\Users\Christian Arroyo\Desktop\Servidor-TCP\Cliente-TCP\obj\Debug\Cliente-TCP.csproj.GenerateResource.cache
+C:\Users\Christian Arroyo\Desktop\Servidor-TCP\Cliente-TCP\obj\Debug\Cliente-TCP.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Servidor-TCP\Cliente-TCP\obj\Debug\Cliente-TCP.exe
+C:\Users\Christian Arroyo\Desktop\Servidor-TCP\Cliente-TCP\obj\Debug\Cliente-TCP.pdb

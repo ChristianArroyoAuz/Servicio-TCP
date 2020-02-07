@@ -1,0 +1,10 @@
+C:\Users\Christian Arroyo\Desktop\Servidor-TCP\Servidor-TCP\bin\Debug\Servidor-TCP.exe.config
+C:\Users\Christian Arroyo\Desktop\Servidor-TCP\Servidor-TCP\bin\Debug\Servidor-TCP.exe
+C:\Users\Christian Arroyo\Desktop\Servidor-TCP\Servidor-TCP\bin\Debug\Servidor-TCP.pdb
+C:\Users\Christian Arroyo\Desktop\Servidor-TCP\Servidor-TCP\obj\Debug\Servidor-TCP.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Servidor-TCP\Servidor-TCP\obj\Debug\Servidor_TCP.FrmServidorTcp.resources
+C:\Users\Christian Arroyo\Desktop\Servidor-TCP\Servidor-TCP\obj\Debug\Servidor_TCP.Properties.Resources.resources
+C:\Users\Christian Arroyo\Desktop\Servidor-TCP\Servidor-TCP\obj\Debug\Servidor-TCP.csproj.GenerateResource.cache
+C:\Users\Christian Arroyo\Desktop\Servidor-TCP\Servidor-TCP\obj\Debug\Servidor-TCP.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Servidor-TCP\Servidor-TCP\obj\Debug\Servidor-TCP.exe
+C:\Users\Christian Arroyo\Desktop\Servidor-TCP\Servidor-TCP\obj\Debug\Servidor-TCP.pdb
